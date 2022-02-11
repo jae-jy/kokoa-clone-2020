@@ -11,6 +11,10 @@
   font-weight: 600;
 }
 
+.screen-header__icon {
+  display: flex;
+}
 .screen-header__icon span {
+  position: relative;
   margin-left: 25px;
 }
